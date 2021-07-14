@@ -1,0 +1,25 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronan-Codes/food-festival.git"
+  },
+  "author": "Ronan-Codes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ronan-Codes/food-festival/issues"
+  },
+  "homepage": "https://github.com/Ronan-Codes/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
